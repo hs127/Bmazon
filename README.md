@@ -7,7 +7,7 @@ Github Repository: https://github.com/hs127/Bmazon
 
 Demo Vid of Happy Path for Customer.js link -> 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1gXXvsCazVFDZvSfWkILEuhpI2KpM_BnX/view)
+[![Watch the video](https://drive.google.com/file/d/1oxgZfgZ8XdgWbKhL9fE-LCFZQV2kNm_P/view?usp=sharing)](https://drive.google.com/file/d/1gXXvsCazVFDZvSfWkILEuhpI2KpM_BnX/view)
 
 
 
